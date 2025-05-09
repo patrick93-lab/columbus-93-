@@ -1,0 +1,12 @@
+{
+  "name": "columbus-93-",
+  "version": "1.0.0",
+  "description": "A website for Columbus, Ohio: Weekend Wonders.",
+  "main": "button-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
