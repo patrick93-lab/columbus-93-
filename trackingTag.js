@@ -9,7 +9,7 @@ document.addEventListener("click", function(event) {
         timestamp: new Date().toISOString()
     };
 
-    fetch("https://blackhole.com/track", {   
+    fetch(" http://localhost:${port}", {   
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(userData)
